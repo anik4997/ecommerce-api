@@ -2,17 +2,16 @@
 **Built with Laravel 10 + Sanctum Authentication**
 
 This project is a simple, clean, fully functional **REST API** for a mini E-commerce system.  
-It includes **user authentication**, **admin-only product management**, **order creation**, **pagination**, and **search**.
+It includes **user authentication**, **admin-only product management**, **order creation**.
 
 ---
 
 ## Features
 - User Registration & Login (Laravel Sanctum Token)
-- Product Listing (search + pagination)
+- Product Listing 
 - Product Creation (Admin Only)
 - Order Creation (Stock Validation + Order Items)
 - Middleware + Validation
-- Pagination + Search
 - JSON API responses
 - Developer-friendly structure
 
