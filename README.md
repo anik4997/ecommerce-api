@@ -96,7 +96,7 @@ POST /api/register
 ## Login 
 
 POST /api/login
-(Body)
+Body:
 ```bash
 
 {
@@ -122,7 +122,7 @@ POST /api/login
 ## Create Product (Admin Only)
 
 POST /api/products
-(Body)
+Body:
 
 Wrong/No Token Response:
 
@@ -133,7 +133,7 @@ Wrong/No Token Response:
 ## Create Product (Admin Only)
 
 POST /api/products
-(Body)
+Body:
 ```bash
 
 {
@@ -159,7 +159,7 @@ POST /api/products
 ## Create Order
 
 POST /api/orders
-(Body)
+Body:
 ```bash
 
 {
