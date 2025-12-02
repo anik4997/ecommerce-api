@@ -69,7 +69,7 @@ http://localhost:8084/api
 
 ## API Endpoints (With Live Tested Responses)
 POST /api/register
-(Body)
+Body->
 ```bash
 
 {
@@ -96,7 +96,7 @@ POST /api/register
 ## Login 
 
 POST /api/login
-Body:
+Body->
 ```bash
 
 {
@@ -133,7 +133,7 @@ Wrong/No Token Response:
 ## Create Product (Admin Only)
 
 POST /api/products
-Body:
+Body->
 ```bash
 
 {
@@ -159,7 +159,7 @@ Body:
 ## Create Order
 
 POST /api/orders
-Body:
+Body->
 ```bash
 
 {
